@@ -88,11 +88,11 @@ Ensure you have the following installed:
 
 4. **Score Summary**
 
-   ![Screenshot 4](./ScreenShots/photo_5.jpg)
+   ![Screenshot 4](./ScreenShots/photo_4.jpg)
 
 5. **Responsive Design**
 
-   ![Screenshot 5](#)
+   ![Screenshot 5](./ScreenShots/photo_5.jpg)
 
 ---
 
