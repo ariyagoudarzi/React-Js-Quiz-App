@@ -76,19 +76,19 @@ Ensure you have the following installed:
 
 1. **Home Screen**
 
-   ![Screenshot 1](#)
+   ![Screenshot 1](./ScreenShots/photo_1.jpg)
 
 2. **Quiz Questions**
 
-   ![Screenshot 2](#)
+   ![Screenshot 2](./ScreenShots/photo_2.jpg)
 
 3. **Real-Time Feedback**
 
-   ![Screenshot 3](#)
+   ![Screenshot 3](./ScreenShots/photo_3.jpg)
 
 4. **Score Summary**
 
-   ![Screenshot 4](#)
+   ![Screenshot 4](./ScreenShots/photo_5.jpg)
 
 5. **Responsive Design**
 
